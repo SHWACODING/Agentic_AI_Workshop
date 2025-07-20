@@ -1,0 +1,8 @@
+langgraph
+langchain
+langchain_community
+langchainhub
+langchain_groq
+langchain_huggingface
+bs4
+tiktoken

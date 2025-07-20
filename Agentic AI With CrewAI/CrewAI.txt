@@ -1,0 +1,29 @@
+What is CrewAI ??
+
+CrewAI empowers developers with both high-level simplicity and precise low-level control, ideal for creating autonomous AI agents tailored to any scenario:
+1. CrewAI Crews: Optimize for autonomy and collaborative intelligence, enabling you to create AI teams where each agent has specific roles, tools, and goals.
+2. CrewAI Flows: Enable granular, event-driven control, single LLM calls for precise task orchestration and supports Crews natively.
+
+Component	Description	Key Features
+Crew	    The top-level organization	• Manages AI agent teams
+                                        • Oversees workflows
+                                        • Ensures collaboration
+                                        • Delivers outcomes
+AI Agents	Specialized team members	• Have specific roles (researcher, writer)
+                                        • Use designated tools
+                                        • Can delegate tasks
+                                        • Make autonomous decisions
+Process	  Workflow management system	• Defines collaboration patterns
+                                        • Controls task assignments
+                                        • Manages interactions
+                                        • Ensures efficient execution
+Tasks	    Individual assignments	    • Have clear objectives
+                                        • Use specific tools
+                                        • Feed into larger process
+                                        • Produce actionable results
+
+How It All Works Together ::
+1. The Crew organizes the overall operation
+2. AI Agents work on their specialized tasks
+3. The Process ensures smooth collaboration
+4. Tasks get completed to achieve the goal
